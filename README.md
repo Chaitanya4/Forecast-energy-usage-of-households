@@ -1,5 +1,5 @@
 # Forecast-energy-usage-of-households
-Project is developed using python libraries numpy, panda, sklearn, seaborn, matplotlib and datetime for the TCS HumAIn 2019 contest.
+Project is developed using python libraries numpy, panda, sklearn, seaborn, matplotlib and datetime for the TCS HumAIn 2019 contest for forecasting energy usage of households using LSTM model based on the provided dataset.
 
 Run the project from command-line using: python3 forecast.py
 
